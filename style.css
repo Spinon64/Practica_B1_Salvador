@@ -1,0 +1,29 @@
+.cabecera-roja {
+    background-color: red;
+}
+
+.cabecera-amarilla {
+    background-color: yellow;
+}
+
+.espacio-centro {
+    background-color: gray;
+    padding: 200px;
+    padding-top: 15%px;
+    padding-bottom: 15%px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.foot1 {
+    background-color: green;
+}
+
+.foot2 {
+    background-color: cornflowerblue;
+}
+
+.foot3 {
+    background-color: green;
+}
