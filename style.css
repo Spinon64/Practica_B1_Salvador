@@ -1,18 +1,20 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
 .cabecera-roja {
     background-color: red;
+    font-weight: bold;
 }
 
 .cabecera-amarilla {
     background-color: yellow;
+    font-weight: bold;
 }
 
 .espacio-centro {
     background-color: gray;
-    padding: 200px;
-    padding-top: 15%px;
-    padding-bottom: 15%px;
-    display: flex;
-    justify-content: center;
     
 }
 
